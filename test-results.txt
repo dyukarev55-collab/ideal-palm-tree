@@ -1,0 +1,5 @@
+SELLFORM v2.4.0 automated test run
+Command: npm test
+Result: 34 tests passed, 0 failed, 0 skipped.
+Scope: Node.js unit tests and static SQL migration-contract checks.
+Not covered: execution against a live Supabase/PostgreSQL database, RLS integration under real JWT roles, TypeScript/Next.js production build.
